@@ -8,7 +8,6 @@ The research article preprint >> <a href="https://arxiv.org/abs/2504.16816">http
 
 <br>
 <br>
-<br>
 <img align="center" src="nonlinear_pendulum.gif" width="600"  alt="Nonlinear Pendulum"></center>
 
 ## Citation
