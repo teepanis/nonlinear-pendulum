@@ -1,8 +1,14 @@
-# Supplemental Material
-## Simple and accurate nonlinear pendulum motion for the full range of amplitudes
+<h1 align="center">Supplemental Material</h1>
+<h2 aligne="center">Simple and accurate nonlinear pendulum motion for the full range of amplitudes</h2>
 Teepais Chachiyo <teepanisc@nu.ac.th>, Department of Physics, Faculty of Science, Naresuan University, Phitsanulok 65000, Thailand.
 
-## Acknowledgements
+<br>
+<br>
+The research article preprint >> <a href="https://arxiv.org/abs/2504.16816">https://arxiv.org/abs/2504.16816</a>
+
+
+
+## Citation
 
 If you use any part of this repository please cite the following paper:
 
