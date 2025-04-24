@@ -6,7 +6,10 @@ Teepais Chachiyo <teepanisc@nu.ac.th>, Department of Physics, Faculty of Science
 <br>
 The research article preprint >> <a href="https://arxiv.org/abs/2504.16816">https://arxiv.org/abs/2504.16816</a>
 
-
+<br>
+<br>
+<br>
+<img align="center" src="nonlinear_pendulum.gif" width="600"  alt="Nonlinear Pendulum"></center>
 
 ## Citation
 
