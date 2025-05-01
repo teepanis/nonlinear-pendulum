@@ -8,8 +8,8 @@ The research article preprint >> <a href="https://arxiv.org/abs/2504.16816">http
 
 <br>
 <br>
-<img align="center" src="CKS.gif" width="600"  alt="">Pendulum Motion</center>
-<img align="center" src="nonlinear_motion.gif" width="600"  alt="">3 Classes of Nonlinear Pedulum Motion</center>
+<img align="center" src="CKS.gif" width="540"  alt="Pendulum Motion"</center>
+<img align="center" src="nonlinear_motion.gif" width="540"  alt="3 Classes of Nonlinear Pedulum Motion"</center>
 
 ## Citation
 
