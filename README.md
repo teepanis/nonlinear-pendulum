@@ -1,5 +1,5 @@
 <h1 align="center">Supplemental Material</h1>
-<h2 aligne="center">Simple and accurate nonlinear pendulum motion for the full range of amplitudes</h2>
+<h2 aligne="center">Simple and exact nonlinear pendulum motion for all possible initial conditions</h2>
 Teepais Chachiyo <teepanisc@nu.ac.th>, Department of Physics, Faculty of Science, Naresuan University, Phitsanulok 65000, Thailand.
 
 <br>
@@ -17,7 +17,7 @@ If you use any part of this repository please cite the following paper:
 ```
 @article{Chachiyo:2025sac,
     author = "Teepanis Chachiyo",
-    title = "{Simple and accurate nonlinear pendulum motion for the full range of amplitudes}",
+    title = "{Simple and exact nonlinear pendulum motion for all possible initial conditions}",
     eprint = "2504.16816",
     archivePrefix = "arXiv",
     primaryClass = "physics.class-ph",
