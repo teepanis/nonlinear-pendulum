@@ -16,7 +16,7 @@ The research article preprint >> <a href="https://arxiv.org/abs/2504.16816">http
 In the meantime, if you use any part of this repository please cite the following preprint:
 
 ```
-@article{Chachiyo:2025sac,
+@article{Chachiyo:2025sae,
     author = "Teepanis Chachiyo",
     title = "{Simple and exact nonlinear pendulum motion for all possible initial conditions}",
     eprint = "2504.16816",
