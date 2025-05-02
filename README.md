@@ -13,7 +13,7 @@ The research article preprint >> <a href="https://arxiv.org/abs/2504.16816">http
 
 ## Citation
 
-If you use any part of this repository please cite the following paper:
+In the meantime, if you use any part of this repository please cite the following preprint:
 
 ```
 @article{Chachiyo:2025sac,
