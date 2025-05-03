@@ -4,7 +4,7 @@ Teepais Chachiyo <teepanisc@nu.ac.th>, Department of Physics, Faculty of Science
 
 
 ## File List
-1. **supplemental_material.ipynb**: a python notebook containing additional proofs, data, and figures as shown in the paper
+1. **supplemental_material.ipynb**: a python notebook with additional proofs and figures as shown in the paper
 2. **CKS_animation.ipynb**: a python notebook generating GIF animation using CKS.
 3. **nonlinear_motion.gif**: example of the generated GIF animation
 
