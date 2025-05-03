@@ -9,7 +9,6 @@ Teepais Chachiyo <teepanisc@nu.ac.th>, Department of Physics, Faculty of Science
 3. **nonlinear_motion.gif**: example of the generated GIF animation
 
 <br>
-<br>
 The research article preprint >> <a href="https://arxiv.org/abs/2504.16816">https://arxiv.org/abs/2504.16816</a>
 
 <br>
