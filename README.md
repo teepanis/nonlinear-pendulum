@@ -1,6 +1,6 @@
 <h1 align="center">Supplemental Material</h1>
 <h2 aligne="center">Simple and exact nonlinear pendulum motion for all possible initial conditions</h2>
-Teepais Chachiyo <teepanisc@nu.ac.th>, Department of Physics, Faculty of Science, Naresuan University, Phitsanulok 65000, Thailand.
+Teepanis Chachiyo <teepanisc@nu.ac.th>, Department of Physics, Faculty of Science, Naresuan University, Phitsanulok 65000, Thailand.
 
 
 ## File List
