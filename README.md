@@ -5,7 +5,7 @@ Teepanis Chachiyo <teepanisc@nu.ac.th>, Department of Physics, Faculty of Scienc
 
 ## File List
 1. **supplemental_material.ipynb**: the Python notebook producing results and figures as shown in the paper
-2. **simple_example.ipynb**: simple and minimal example of ploting the exact solution 
+2. <font color="blue">**simple_example.ipynb**</font>: simple and minimal example of ploting the exact solution 
 3. **animation.ipynb**: a python notebook generating GIF animation using the derived exact solutions.
 4. **nonlinear_motion.gif**: example of the generated GIF animation
 
