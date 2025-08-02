@@ -1,5 +1,5 @@
 <h1 align="center">Supplemental Material</h1>
-<h2 aligne="center">Simple and exact nonlinear pendulum motion for all possible initial conditions</h2>
+<h2 aligne="center">Exact frequency-domain solutions for nonlinear pendulum-like dynamics</h2>
 Teepanis Chachiyo <teepanisc@nu.ac.th>, Department of Physics, Faculty of Science, Naresuan University, Phitsanulok 65000, Thailand.
 
 
