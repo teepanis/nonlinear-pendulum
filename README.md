@@ -27,7 +27,7 @@ In the meantime, if you use any part of this repository please cite the followin
 ```
 @article{Chachiyo:2025sae,
     author = "Teepanis Chachiyo",
-    title = "{Simple and exact nonlinear pendulum motion for all possible initial conditions}",
+    title = "{Exact frequency-domain solutions for nonlinear pendulum-like dynamics}",
     eprint = "2504.16816",
     archivePrefix = "arXiv",
     primaryClass = "physics.class-ph",
