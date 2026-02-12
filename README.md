@@ -13,8 +13,7 @@ Teepanis Chachiyo <teepanisc@nu.ac.th>, Department of Physics, Faculty of Scienc
 The research article preprint >> <a href="https://arxiv.org/abs/2504.16816">https://arxiv.org/abs/2504.16816</a>
 
 ## Abstract
-Beyond classical physics, pendulum-like dynamics arise in diverse systems, such as superconducting Josephson junctions, Bose-Einstein condensates tunneling, and emerging artificial intelligence models for nonlinear pattern recognition. While the nonlinear pendulum admits long-standing exact solutions in terms of Jacobi elliptic functions, they do not reveal the frequency content of the motion. Consequently, studies of pendulum-like dynamics must rely on perturbative, approximate, or numerical methods when characterizing their oscillatory behavior. Here, we present complete, exact, and closed-form frequency-domain solutions for the energy-conserving nonlinear pendulum across all initial conditions and regimes: swinging, stopping, and spinning. These solutions are derived through angular-velocity frequency analysis and expressed in terms of elementary functions. Their accuracy is validated by agreement with numerical values to machine precision and by frequency analysis of dynamical simulations performed using Velocity Verlet integration. A comparison with the perturbation method is presented. Applications to quantum analogues are also discussed.
-
+Pendulum-like dynamics underlies a wide range of physical systems, from classical nonlinear oscillators to superconducting circuits and tunneling dynamics in cold-atom platforms. Here we present an exact frequency-domain formulation of the pendulum equation that applies uniformly across oscillatory, separatrix, and rotational regimes. The resulting spectral representation reveals a previously hidden unification: all regimes share the same analytic spectral structure and characteristic frequency scale, differing only by parity selection and the emergence of a continuous spectrum at the separatrix. This framework exposes regime transitions as symmetry-driven reorganizations in frequency space rather than changes in timescale, and identifies the stopping trajectory as a dynamical continuum limit reached without system-size scaling. Beyond providing closed-form solutions, the approach offers a transparent spectral insight into a broad class of classical and quantum pendulum-like systems.
 
 <br>
 <br>
@@ -33,7 +32,7 @@ In the meantime, if you use any part of this repository please cite the followin
     archivePrefix = "arXiv",
     primaryClass = "physics.class-ph",
     month = "4",
-    year = "2025"
+    year = "2026"
 }
 ```
 
