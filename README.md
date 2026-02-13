@@ -1,10 +1,10 @@
-<h1 align="center">Supplemental Material</h1>
+<h1 align="center">Supporting Data</h1>
 <h2 aligne="center">Exact frequency-domain solutions for nonlinear pendulum-like dynamics</h2>
 Teepanis Chachiyo <teepanisc@nu.ac.th>, Department of Physics, Faculty of Science, Naresuan University, Phitsanulok 65000, Thailand.
 
 
 ## File List
-1. **supplemental_material.ipynb**: Python notebook producing the results and figures in the paper
+1. **validation.ipynb**: Python notebook producing the results and figures in the paper
 2. **simple_example.ipynb**: simple and minimal example of ploting the exact solution 
 3. **animation.ipynb**: Python notebook generating GIF animation using the derived exact solutions
 4. **nonlinear_motion.gif**: GIF animation showing the 3 classes of motions
