@@ -54,16 +54,13 @@ T = 4*sp.special.ellipk(k**2)/OmegaL
 Omega0 = 2*np.pi/T
 kappa = sp.special.ellipk(1-k**2)
 
-t = np.linspace(0,2*T,200)
+t = np.linspace(0,2*T,200) + T/4
 theta = np.zeros(len(t)) 
-
-# set phase
-delta = np.pi/2
 
 # adding odd harmonics 
 for n in range(1,40,2):
-    a = 4/n/np.cosh(kappa*n*Omega0/OmegaL)
-    theta = theta + a*np.sin(n*Omega0*t + n*delta)
+    c = 4/n/np.cosh(kappa*n*Omega0/OmegaL)
+    theta = theta + c*np.sin(n*Omega0*t)
 
 plt.plot(t, theta)
 plt.grid()
@@ -72,5 +69,5 @@ plt.show()
 
 To compare with the traditional perspective we:
 1. use the initial condition that the pendulum starts at rest, with an amplitude $\\theta_0$.
-2. For this condition, the phase in this work is precisely $\\delta = \\pi/2$.
+2. For this condition, we shift the time by $T/4$.
 3. For convenience, we use the form $k = \\sin(\\theta_0/2)$, which is equipvalent to $k = \\omega_m/\\omega_c$.
