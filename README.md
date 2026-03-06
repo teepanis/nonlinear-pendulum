@@ -25,7 +25,7 @@ Pendulum-like dynamics is a universal motif across many areas of physics, underl
 In the meantime, if you use any part of this repository please cite the following preprint:
 
 ```
-@article{Chachiyo:2025sae,
+@article{Chachiyo:2026uss,
     author = "Teepanis Chachiyo",
     title = "{Universal spectral structure in pendulum-like systems}",
     eprint = "2504.16816",
