@@ -1,5 +1,5 @@
 <h1 align="center">Data and Code Availability</h1>
-<h2 aligne="center">Exact frequency-domain solutions for nonlinear pendulum-like dynamics</h2>
+<h2 aligne="center">Universal spectral structure in pendulum-like systems</h2>
 Teepanis Chachiyo <teepanisc@nu.ac.th>, Department of Physics, Faculty of Science, Naresuan University, Phitsanulok 65000, Thailand.
 
 
@@ -13,7 +13,7 @@ Teepanis Chachiyo <teepanisc@nu.ac.th>, Department of Physics, Faculty of Scienc
 The research article preprint >> <a href="https://arxiv.org/abs/2504.16816">https://arxiv.org/abs/2504.16816</a>
 
 ## Abstract
-Pendulum-like dynamics underlies a wide range of physical systems, from classical nonlinear oscillators to superconducting circuits and tunneling dynamics in cold-atom platforms. Here we present an exact frequency-domain formulation of the pendulum equation that applies uniformly across oscillatory, separatrix, and rotational regimes. The resulting spectral representation reveals a previously hidden unification: all regimes share the same analytic spectral structure and characteristic frequency scale, differing only by parity selection and the emergence of a continuous spectrum at the separatrix. This framework exposes regime transitions as symmetry-driven reorganizations in frequency space rather than changes in timescale, and identifies the stopping trajectory as a dynamical continuum limit reached without system-size scaling. Beyond providing closed-form solutions, the approach offers a transparent spectral insight into a broad class of classical and quantum pendulum-like systems.
+Pendulum-like dynamics is a universal motif across many areas of physics, underlying systems ranging from classical nonlinear oscillators to superconducting circuits and tunneling dynamics in cold-atom platforms. Here we present an exact frequency-domain formulation of the pendulum equation that applies uniformly across oscillatory, separatrix, and rotational regimes. The resulting spectral representation reveals a previously hidden unification: all regimes share the same analytic spectral structure and characteristic frequency scale. We show that oscillatory, stopping, and rotational regimes all arise from a single universal spectral kernel, with parity selection distinguishing the periodic motions and the separatrix representing their discrete-to-continuum limit. Regime changes thus correspond to symmetry-driven reorganizations in frequency space rather than changes in the underlying spectral structure, with the stopping trajectory representing the continuum limit reached without system-size scaling. The spectral structure can be derived via a spectral discretization approach starting from the separatrix solution, without relying on the classical Jacobi elliptic formulation. Beyond providing closed-form solutions, the framework reveals a transparent spectral structure underlying a broad class of classical and quantum pendulum-like systems.
 
 <br>
 <br>
@@ -27,7 +27,7 @@ In the meantime, if you use any part of this repository please cite the followin
 ```
 @article{Chachiyo:2025sae,
     author = "Teepanis Chachiyo",
-    title = "{Exact frequency-domain solutions for nonlinear pendulum-like dynamics}",
+    title = "{Universal spectral structure in pendulum-like systems}",
     eprint = "2504.16816",
     archivePrefix = "arXiv",
     primaryClass = "physics.class-ph",
