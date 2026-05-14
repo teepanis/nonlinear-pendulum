@@ -1,5 +1,5 @@
 <h1 align="center">Data and Code Availability</h1>
-<h2 aligne="center">Universal spectral structure in pendulum-like systems</h2>
+<h2 aligne="center">Spectral computation in pendulum-like systems: fundamental clock, parity selection, and continuum limit</h2>
 Teepanis Chachiyo <teepanisc@nu.ac.th>, Department of Physics, Faculty of Science, Naresuan University, Phitsanulok 65000, Thailand.
 
 
@@ -9,17 +9,20 @@ Teepanis Chachiyo <teepanisc@nu.ac.th>, Department of Physics, Faculty of Scienc
 3. **animation.ipynb**: Python notebook generating GIF animation using the derived exact solutions
 4. **nonlinear_motion.gif**: GIF animation showing the 3 classes of motions
 
+<!--
 <br>
 The research article preprint >> <a href="https://arxiv.org/abs/2504.16816">https://arxiv.org/abs/2504.16816</a>
+-->
 
 ## Abstract
-Pendulum-like dynamics is a universal motif across many areas of physics, underlying systems ranging from classical nonlinear oscillators to superconducting circuits and tunneling dynamics in cold-atom platforms. Here we present an exact frequency-domain formulation of the pendulum equation that applies uniformly across oscillatory, separatrix, and rotational regimes. The resulting spectral representation reveals a previously hidden unification: all regimes share the same analytic spectral structure and characteristic frequency scale. We show that oscillatory, stopping, and rotational regimes all arise from a single universal spectral kernel, with parity selection distinguishing the periodic motions and the separatrix representing their discrete-to-continuum limit. Regime changes thus correspond to symmetry-driven reorganizations in frequency space rather than changes in the underlying spectral structure, with the stopping trajectory representing the continuum limit reached without system-size scaling. The spectral structure can be derived via a spectral discretization approach starting from the separatrix solution, without relying on the classical Jacobi elliptic formulation. Beyond providing closed-form solutions, the framework reveals a transparent spectral structure underlying a broad class of classical and quantum pendulum-like systems.
+Pendulum-like dynamics appear in a multitude of physical and engineering applications, ranging from energy harvesting mechanisms to superconducting qubits and cold-atom tunneling platforms. Their trajectory patterns are classified into regimes, traditionally written as disjointed special functions, presented exclusively in the time domain. Therefore, their piece-wise and special mathematical nature makes them difficult to integrate into research that explores parameters across all regimes, especially in applications that require direct control over the frequency content. Here we present an exact frequency-domain computation of pendulum-like systems that applies uniformly across oscillatory, separatrix, and rotational regimes. The resulting spectral representation reveals a previously hidden unification: all regimes share the same analytic spectral kernel and a fundamental clock, obey parity selection, and dissolve into the separatrix via a discrete-to-continuum transition. The spectral computation provides complete and exact frequency-domain information underlying a broad class of classical and quantum pendulum-like systems.
 
 <br>
 <br>
 <center><img src="graphical_abstract.gif" width="540"  alt="Pendulum Motion"></center>
 <center><img src="nonlinear_motion.gif" width="540"  alt="3 Classes of Nonlinear Pedulum Motion"></center>
 
+<!--
 ## Citation
 
 In the meantime, if you use any part of this repository please cite the following preprint:
@@ -35,6 +38,7 @@ In the meantime, if you use any part of this repository please cite the followin
     year = "2026"
 }
 ```
+-->
 
 ## 'Hello-World' example for the swinging nonlinear pendulum
 
