@@ -29,7 +29,7 @@ In the meantime, if you use any part of this repository please cite the followin
 ```
 @article{Chachiyo:2026uss,
     author = "Teepanis Chachiyo",
-    title = "{Universal spectral structure in pendulum-like systems}",
+    title = "{Unifying pendulum-like dynamical regimes via complex time}",
     eprint = "2504.16816",
     archivePrefix = "arXiv",
     primaryClass = "physics.class-ph",
