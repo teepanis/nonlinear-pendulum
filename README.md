@@ -1,13 +1,19 @@
-<h1 align="center">Data and Code Availability</h1>
+<h1 align="center">Validation and Teaching Guide</h1>
 <h2 aligne="center">Unifying pendulum-like dynamical regimes via complex time</h2>
 Teepanis Chachiyo <teepanisc@nu.ac.th>, Department of Physics, Faculty of Science, Naresuan University, Phitsanulok 65000, Thailand.
 
 
-## File List
-1. **validation.ipynb**: Python notebook producing the results and figures in the paper
-2. **simple_example.ipynb**: simple and minimal example of ploting the exact solution 
-3. **animation.ipynb**: Python notebook generating GIF animation using the derived exact solutions
-4. **nonlinear_motion.gif**: GIF animation showing the 3 classes of motions
+
+## 1. File List
+
+| File | Description |
+| --- | --- |
+| 1) `validation.ipynb` |  Python notebook producing the results and figures in the paper |
+| 2) `simple_example.ipynb` | Simple and minimal example of ploting the exact solution |
+| 3) `animation.ipynb` | Python notebook generating GIF animation using the derived exact solutions |
+| 4) `nonlinear_motion.gif` | GIF animation showing the 3 dynamical regimes of motions |
+
+<!--
 
 <br>
 The research article preprint >> <a href="https://arxiv.org/abs/2504.16816">https://arxiv.org/abs/2504.16816</a>
@@ -18,10 +24,22 @@ We present an alternative derivation of exact solutions for pendulum-like system
 
 <br>
 <br>
+
+-->
+
+## 2. Teaching Guide
+
+### 2.1 Dynamical Regimes
+<center><img src="nonlinear_motion.gif" width="540"  alt="3 Dynamical Regimes of Nonlinear Pendulum Motion"></center>
+
+### 2.2 Conceptual Anchor
 <center><img src="graphical_abstract.gif" width="540"  alt="Pendulum Motion"></center>
-<center><img src="nonlinear_motion.gif" width="540"  alt="3 Classes of Nonlinear Pedulum Motion"></center>
 
 
+
+
+
+<!--
 ## Citation
 
 In the meantime, if you use any part of this repository please cite the following preprint:
@@ -37,9 +55,9 @@ In the meantime, if you use any part of this repository please cite the followin
     year = "2026"
 }
 ```
+-->
 
-
-## 'Hello-World' example for the swinging nonlinear pendulum
+### 2.3 A hello-world example for the swinging nonlinear pendulum
 
 ```python
 # exact solution of nonlinear pendulum via spectral analyis
